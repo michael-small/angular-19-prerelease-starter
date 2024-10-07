@@ -1,4 +1,4 @@
-# 19Prerelease
+# Angular 19.0.0-next.8 starter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0-next.9.
 
